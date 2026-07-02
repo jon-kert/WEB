@@ -1,4 +1,4 @@
-# Oncology Research Article Discovery
+# Research Breadth Tool
 
 A Streamlit application for streamlining oncology research by querying PubMed for relevant articles, filtering by keyword criteria, and managing a review workflow.
 
