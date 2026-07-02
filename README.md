@@ -1,6 +1,6 @@
-# Research Breadth Tool
+# Health Research Breadth Tool
 
-A Streamlit application for streamlining oncology research by querying PubMed for relevant articles, filtering by keyword criteria, and managing a review workflow.
+A Streamlit application for streamlining health research by querying PubMed for relevant articles, filtering by keyword criteria, and managing a review workflow.
 
 ## Features
 
@@ -10,20 +10,6 @@ A Streamlit application for streamlining oncology research by querying PubMed fo
 - **Flexible Export**: Export bookmarked papers for manual review in csv or xlsx format, with control over which fields to include
 - **Simple Interface**: Multi-tab UI for search, export, and paper management
 - **Isolated Sessions**: Each users authentification, search results, and bookmarks are isolated from other users. There is no shared state.
-
-
-
-# W.E.B. | Research Breadth Tool
-
-A Streamlit application for streamlining oncology research by querying PubMed for relevant articles, filtering by keyword criteria, bookmarking articles of interest, and exporting results in multiple formats.
-
-## Features
-
-- **PubMed Search**: Query PubMed using a comma-separated keyword list, built into an OR query across all fields
-- **Smart Filtering**: Filter returned articles by the number of unique keyword matches found across titles and abstracts
-- **Bookmarking**: Save articles of interest to a personal review queue within your session
-- **Flexible Export**: Export bookmarked articles to CSV or Excel, with control over which fields to include
-- **Session Isolation**: Each user's search results and bookmarks are fully isolated — no shared state between users
 
 ## Requirements
 
