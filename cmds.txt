@@ -1,0 +1,11 @@
+
+python3 -m venv .venv
+
+-- Activating the virtual environment
+source .venv/bin/activate
+
+--Installing all requirements
+python -m pip install -r requirements.txt
+
+--Running The App
+streamlit run app.py

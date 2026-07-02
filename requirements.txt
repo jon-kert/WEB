@@ -1,0 +1,6 @@
+streamlit
+pandas
+biopython
+openpyxl
+reportlab
+python-dotenv
